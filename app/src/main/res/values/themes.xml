@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TopNavBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="Theme.TopNavBar" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>
